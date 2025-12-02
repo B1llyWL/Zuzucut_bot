@@ -4,7 +4,7 @@ import asyncio
 from aiogram import Bot, Dispatcher
 from aiogram.types import Message
 
-bot = Bot(token='7694495732:AAHXqiTD7UlKdhQcFOMD0-jTpxG7stZKoms')
+bot = Bot(token='')
 dp = Dispatcher()
 
 @dp.message
@@ -135,3 +135,4 @@ if __name__ == '__main__':
         asyncio.run(start_bot())
     except KeyboardInterrupt:
         print('Бот выключен')
+
