@@ -2,5 +2,8 @@
 Telegram bot for the Zuzucut website.
 Programming language: Python
 
-📺 Watch Video
+📺 Watch Video:
 https://youtu.be/kAAAGlONyoQ?si=zfO5oyy_T9sAbFDD
+
+Telegram-bot:
+@Zuzucutbot
