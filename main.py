@@ -1,24 +1,3 @@
-#По видео
-'''
-import asyncio
-from aiogram import Bot, Dispatcher
-from aiogram.types import Message
-
-bot = Bot(token='')
-dp = Dispatcher()
-
-@dp.message
-async def cmd_start(message: Message):
-    await message.answer('Привет! Рада тебя видеть! Я занимаюсь созданием уникальных артов и скетчей. Если у тебя есть идея, могу помочь её реализовать. О чем ты думаешь?')
-
-async def main():
-    await dp.start_polling(bot)
-
-if __name__ == '__main__':
-    asyncio.run(main())
-'''
-'''
-#немного измененно
 import asyncio
 from aiogram import Bot,Dispatcher  
 from aiogram.fsm.storage.memory import MemoryStorage
@@ -135,4 +114,5 @@ if __name__ == '__main__':
         asyncio.run(start_bot())
     except KeyboardInterrupt:
         print('Бот выключен')
+
 
