@@ -124,12 +124,4 @@ echo "BOT_TOKEN=your_telegram_bot_token" > .env
 # 4. Run the bot
 python bot.py</code></pre>
 
-<p>
-  <i>Make sure you have Python 3.8+ and a Telegram bot token from <a href="https://t.me/BotFather">@BotFather</a>.</i>
-</p>
 
-<hr>
-<p align="center">
-  A Python‑powered bot created for the Zuzucut art community. <br>
-  Developed with ❤️ using <a href="https://docs.aiogram.dev/">Aiogram</a>.
-</p>
