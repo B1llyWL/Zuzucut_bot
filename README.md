@@ -33,13 +33,6 @@
        style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
-<h2>📖 About the Bot</h2>
-
-<p>
-  Zuzucut Bot simplifies the process of ordering custom artwork. <br>
-  Clients answer a structured questionnaire, and the bot forwards the complete request to the artist.
-</p>
-
 <h3>📋 What the bot collects</h3>
 
 <table style="width:80%; border-collapse:collapse;">
