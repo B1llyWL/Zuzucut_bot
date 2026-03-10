@@ -42,7 +42,7 @@
 
 <h3>📋 What the bot collects</h3>
 
-<table align="center" style="width:80%; border-collapse:collapse;">
+<table style="width:80%; border-collapse:collapse;">
   <tr>
     <th style="background:#f2f2f2; padding:8px; border:1px solid #ddd;">Step</th>
     <th style="background:#f2f2f2; padding:8px; border:1px solid #ddd;">Information</th>
