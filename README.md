@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">📸 Screenshot</h2>
+<h2>📸 Screenshot</h2>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c60c2ef9-c6ce-47f2-97dd-ea5773c1f4c6" 
@@ -33,14 +33,14 @@
        style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
-<h2 align="center">📖 About the Bot</h2>
+<h2>📖 About the Bot</h2>
 
-<p align="center">
+<p>
   Zuzucut Bot simplifies the process of ordering custom artwork. <br>
   Clients answer a structured questionnaire, and the bot forwards the complete request to the artist.
 </p>
 
-<h3 align="center">📋 What the bot collects</h3>
+<h3>📋 What the bot collects</h3>
 
 <table align="center" style="width:80%; border-collapse:collapse;">
   <tr>
@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-<h2 align="center">🤖 Bot Commands & Features</h2>
+<h2>🤖 Bot Commands & Features</h2>
 
 <ul style="display:inline-block; text-align:left;">
   <li><code>/start</code> – welcome message and main menu</li>
@@ -96,18 +96,18 @@
   </li>
 </ul>
 
-<h2 align="center">🚀 How to Use</h2>
+<h2>🚀 How to Use</h2>
 
-<p align="center">
+<p>
   1. Open Telegram and search for <code>@Zuzucutbot</code>.<br>
   2. Start the bot with <code>/start</code>.<br>
   3. Use the menu buttons or <code>/register</code> to place an order.<br>
   4. Follow the step‑by‑step questionnaire – your request will be sent directly to the artist.
 </p>
 
-<h2 align="center">⚙️ Installation (for developers)</h2>
+<h2>⚙️ Installation (for developers)</h2>
 
-<p align="center">
+<p>
   <i>Want to run your own instance?</i>
 </p>
 
@@ -124,7 +124,7 @@ echo "BOT_TOKEN=your_telegram_bot_token" > .env
 # 4. Run the bot
 python bot.py</code></pre>
 
-<p align="center">
+<p>
   <i>Make sure you have Python 3.8+ and a Telegram bot token from <a href="https://t.me/BotFather">@BotFather</a>.</i>
 </p>
 
